@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - YMChat (2.4.3)
+  - ymchat_flutter (0.0.1):
+    - Flutter
+    - YMChat (~> 2.4.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - ymchat_flutter (from `.symlinks/plugins/ymchat_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - YMChat
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  ymchat_flutter:
+    :path: ".symlinks/plugins/ymchat_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 71a624a5bc0c04062bf19101d501e466baf2fb47
+  YMChat: 49c60698a6c941df4973017a9dae5be436060e90
+  ymchat_flutter: 06651fe2a1ed3b04c74c33ec85c1d242f5915c3d
+
+PODFILE CHECKSUM: 84aacaf83d3ac87f0a62130a028e18c2e689db61
+
+COCOAPODS: 1.17.0
